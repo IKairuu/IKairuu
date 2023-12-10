@@ -10,6 +10,7 @@ int aboutMe()
       lasty, I would love to learn Java and Kotlin to create my own applications.
 - 💞️ I’m looking to collaborate on C++ projects(currentlty).
 - 📫 How to reach me, you can reach me through my discord, Kairu#0715 or Kairu#1719.
+  
   return myDeepestGratitude ;
 }
 

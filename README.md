@@ -1,7 +1,9 @@
 #include <Kairu.h>
+
 #include <greetings.h>
 
 int aboutMe()
+
 {
 - 👋 Hi, I’m @IKairuu from the Philippines and recentlty studied in FEU Alabang🔰.
 - 👀 I’m interested in Game Developing, Gaming and Programming.

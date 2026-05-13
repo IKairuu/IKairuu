@@ -44,6 +44,7 @@
  | May 29, 2026 | ISITE National IT Skills Competition: Programming Competition(Java) | 16th Placer |
  | June 18, 2026 | National AI Prompt Competition | Participation |
  | March 28, 2026 | University Coding Competition | 2nd Placer |
+ | December 3, 2025 | CodeChum National Programming Challenge | Finalists |
 
 ## 📞 Connect With Me
 

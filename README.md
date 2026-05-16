@@ -31,7 +31,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SFML-339933?style=for-the-badge&logo=sfml&logoColor=white"/>
+<img src="https://img.shields.io/badge/SFML-339933?style=for-the-badge&logo=sfml&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-181717?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replit-F05032?style=for-the-badge&logo=replit&logoColor=white"/>
 </p>
 
 <p align="center">

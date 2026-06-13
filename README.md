@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/PyQT-white?style=for-the-badge&logo=qt&logoColor=00d671"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nest.js-181a1c?style=for-the-badge&logo=nestjs&logoColor=e02550"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-30333a?style=for-the-badge&logo=vite&logoColor=9553f7"/>

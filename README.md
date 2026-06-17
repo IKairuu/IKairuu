@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma&logoColor=194156"/>
 <img src="https://img.shields.io/badge/Neon-262626?style=for-the-badge&logo=neon&logoColor=5ceaac"/>
+<img src="https://img.shields.io/badge/Supabase-262626?style=for-the-badge&logo=supabase&logoColor=5ceaac"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/SFML-339933?style=for-the-badge&logo=sfml&logoColor=white"/>

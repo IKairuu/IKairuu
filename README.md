@@ -6,7 +6,7 @@
 
 ## 👤 About Me
 <p>
-  I am an aspiring Full Stack Developer with experience in building applications using Flutter and backend solutions using Node.js with Express.js. I constantly learn new technologies to develop an application and solve real-world problems.
+  I am an aspiring Full Stack Developer with experience in building applications using Flutter and backend solutions using Node.js with Express.js or Nest.js, maintaining system scalability and clean architecture principles with MVC. I constantly learn new technologies that fits to my stack and develop full-stack applications to solve real-world problems.
 </p>
 
 ## 🧰 Tech Stack

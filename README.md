@@ -51,7 +51,7 @@
 
 ## 🏆 Competitions
 
- | Date | Competitions | Achievememts |
+ | Date | Competitions | Achievements |
  | --- | --- | --- |
  | May 29, 2026 | ISITE National IT Skills Competition: Programming Competition(Java) | 16th Placer |
  | June 18, 2026 | National AI Prompt Competition | Participation |

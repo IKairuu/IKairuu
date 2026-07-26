@@ -40,7 +40,8 @@
 <img src="https://img.shields.io/badge/Supabase-262626?style=for-the-badge&logo=supabase&logoColor=5ceaac"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/SFML-339933?style=for-the-badge&logo=sfml&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0175C2?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-181a1c?style=for-the-badge&logo=n8n&logoColor=e02550"/>
 <img src="https://img.shields.io/badge/Render-181717?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Replit-F05032?style=for-the-badge&logo=replit&logoColor=white"/>
 </p>

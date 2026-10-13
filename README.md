@@ -16,20 +16,15 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-8a2be2?style=for-the-badge&logo=sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&logoColor=99e0f4"/>
 <img src="https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=34bcfd"/>
-<img src="https://img.shields.io/badge/PyQT-white?style=for-the-badge&logo=qt&logoColor=00d671"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nest.js-181a1c?style=for-the-badge&logo=nestjs&logoColor=e02550"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-30333a?style=for-the-badge&logo=vite&logoColor=9553f7"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -39,15 +34,10 @@
 <img src="https://img.shields.io/badge/Neon-262626?style=for-the-badge&logo=neon&logoColor=5ceaac"/>
 <img src="https://img.shields.io/badge/Supabase-262626?style=for-the-badge&logo=supabase&logoColor=5ceaac"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0175C2?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-181a1c?style=for-the-badge&logo=n8n&logoColor=e02550"/>
 <img src="https://img.shields.io/badge/Render-181717?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Replit-F05032?style=for-the-badge&logo=replit&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKairuu&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ## 🏆 Competitions

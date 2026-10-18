@@ -40,6 +40,17 @@
 <img src="https://img.shields.io/badge/Replit-F05032?style=for-the-badge&logo=replit&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IKairuu&show_icons=true&include_all_commits=false&count_private=true&theme=github_dark&hide_border=false" alt="Kyle's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKairuu&layout=compact&langs_count=6&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 🏆 Competitions
 
  | Date | Competitions | Achievements |

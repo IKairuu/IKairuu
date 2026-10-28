@@ -1,7 +1,7 @@
 <h1>Kyle Allen Abandia</h1>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=false&vCenter=false&width=435&lines=Computer+Science+Student;Software+Engineering;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=false&vCenter=false&width=435&lines=Computer+Science+Student;Software+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 ## 👤 About Me
